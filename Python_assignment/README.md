@@ -1,4 +1,4 @@
-This repository contains the following files:
+This repository contains a folder name "Python_assignment" containing the following files:
 
 *My Python notebook named Imaobong1
 
