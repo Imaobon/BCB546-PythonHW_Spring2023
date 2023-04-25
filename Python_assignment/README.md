@@ -8,3 +8,5 @@ This repository contains the following files:
 
 *The penguins_mass_cytb.csv
 
+*The sequence_translate.py
+
